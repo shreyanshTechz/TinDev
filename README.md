@@ -9,9 +9,10 @@ If you are a developer and finding someone or a project with similar tech skills
 
 While LINKEDIN widens the research to all the domain than development and mainly completed projects, the GITHUB is tedious for the developers to search for open source projects.
 
-# Our technology is the blooming love ❤ between LinkedIn and Github.
+### Our technology is the blooming love ❤ between LinkedIn and Github.
 
-# PPT Link: https://www.canva.com/design/DAFZ8kgbpIw/yYcgjPMydC0pO4Yq5RgfFQ/view?utm_content=DAFZ8kgbpIw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+# PPT Link: 
+https://www.canva.com/design/DAFZ8kgbpIw/yYcgjPMydC0pO4Yq5RgfFQ/view?utm_content=DAFZ8kgbpIw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Challenges we ran into
 Planning and strategy are among the most important stages in developing a website. You need to have a clear vision of what you want to achieve with your website and create a plan for achieving it. If you don't have a proper plan, you may end up with a website that is not effective or does not meet your business goals.
